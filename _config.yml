@@ -22,8 +22,8 @@ title: Seolscribe # the main title
 
 tagline: seolha tech log # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-F.E developer seolha tech log
+description: > # used by seo meta and the atom feed
+  F.E developer seolha tech log
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://zldnlto.github.io"
 
