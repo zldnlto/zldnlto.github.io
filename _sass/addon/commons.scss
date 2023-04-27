@@ -421,7 +421,7 @@ i {
 }
 
 .post-meta {
-  font-size: 0.85rem;
+  font-size: 0.8rem;
   word-spacing: 1px;
 
   a {
@@ -436,9 +436,10 @@ i {
 }
 
 .post-content {
-  font-size: 1.08rem;
+  font-size: 1rem;
   margin-top: 2rem;
   overflow-wrap: break-word;
+  letter-spacing: -0.3px;
 
   a {
     &.popup {
@@ -528,6 +529,8 @@ i {
   padding: 0 0.4rem;
   color: inherit;
   line-height: 1.3rem;
+
+  font-size: 1rem;
 
   &:not(:last-child) {
     margin-right: 0.2rem;
