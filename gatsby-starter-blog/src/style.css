@@ -329,3 +329,21 @@ a:focus {
     list-style-position: inside;
   }
 }
+
+/* selection color */
+
+::selection {
+  background: #dcbd9e;
+  color: #000;
+  text-shadow: none;
+}
+::-moz-selection {
+  background: #dcbd9e;
+  color: #000;
+  text-shadow: none;
+}
+::-webkit-selection {
+  background: #dcbd9e;
+  color: #000;
+  text-shadow: none;
+}
